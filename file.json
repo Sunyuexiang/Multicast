@@ -1,0 +1,12 @@
+{
+    "group1": {
+        "source": "H0m0m0",
+        "targets": ["H0m1m0", "H1m0m2", "H1m1m0"],
+        "multicast_address": "224.0.0.1"
+      },
+      "group4": {
+        "source": "H0m0m3",
+        "targets": ["H0m1m3", "H1m0m3", "H1m1m3"],
+        "multicast_address": "224.0.0.4"
+      }
+}
