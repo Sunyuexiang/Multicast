@@ -2,10 +2,11 @@
 The main task of this project is to design, develop, and demonstrate an SDN control-plane application upon the OpenFlow-based SDN controller platform RYU, to allow network operators or users to control the routes of their multicast traffic in an easy way. 
 
 ## Stap 1 DownLoad 
-Download document "Ryu+Mininet", "Json" and "Front-end.zip" and unzip"Front-end.zip"
-1. "New-Ryu-Mininet": Used to creat Topo and control Multicst
+Download document "Ryu+Mininet", "Json" and "Front-end.zip" and unzip"Front-end.zip", "index.html", "app.py"
+1. "Ryu-Mininet": Used to creat Topo and control Multicst
 2. "Json":Examples of Json
-3. "New-Front-end": Front-end Part
+3. "Front-end": Front-end Part
+Replace the "index.html" and "app.py" in the "Front-end" folder with the two downloaded files
 
 ## Stap 2 Environment
 ```
