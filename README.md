@@ -24,11 +24,11 @@ Mininet
 3. Open a Terminal with Python 3.9 and go to the "Ryu+mininet" directory
 4. Use
    ```
-   ryu-manager controller
+   sudo ryu-manager controller.py
    ```
    to start Ryu controller and
    ```
-   sudo python gen_topo
+   sudo python gen_topo.py
    ```
    to create topo
    Note:it is best to run Ryu after topo is created
